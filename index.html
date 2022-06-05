@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="./css/style.css"/>
+        <link rel="stylesheet" href="./css/anychart-ui.css"/>
+        <link rel="stylesheet" href="./css/jquery-ui.min.css"/>
+        <title>Title</title>
+    </head>
+    <body>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.3.15/proj4.js"> </script>
+        <script src="https://cdn.anychart.com/releases/v8/js/anychart-base.min.js"></script>
+        <script src="https://cdn.anychart.com/releases/v8/js/anychart-map.min.js"></script>
+        <script src="https://cdn.anychart.com/releases/v8/js/anychart-exports.min.js"></script>
+        <script src="https://cdn.anychart.com/releases/v8/js/anychart-ui.min.js"></script>
+        <script src="https://cdn.anychart.com/geodata/2.1.1/countries/mexico/mexico.js"></script>
+        <script src="./js/xlsx.full.min.js"></script>
+        <script src="./js/jquery-3.6.0.min.js"></script>
+        <script src="./js/jquery-ui.min.js"></script>
+
+        <p class="text_align-center text_heading-xx-large">Maven Toys Sales in 2017</p>
+
+        <div class="content">
+<!--            <p id="date-range"></p>-->
+<!--            <p>-->
+<!--                <label for="amount">Date range:</label>-->
+<!--                <input type="text" id="amount" style="border: 0; color: #f6931f; font-weight: bold;" size="100" />-->
+<!--            </p>-->
+<!--            <div id="slider-range"></div>-->
+<!--            <button onclick="redrawMap()">Reload</button>-->
+
+            <div id="map-chart" class="chart-container"></div>
+        </div>
+
+
+
+<!--        <script>-->
+<!--            // zestaw kolorów do serii danych-->
+<!--            const colorRange = [-->
+<!--                "#fad6bf",-->
+<!--                "#f5ae7f",-->
+<!--                "#f08540",-->
+<!--                "#db6011",-->
+<!--                "#9b440c",-->
+<!--            ];-->
+<!--            let jsonData;-->
+<!--            let chartData;-->
+
+<!--            // zainicjowanie mapy Meksyku z legendą-->
+<!--            const map = anychart.map();-->
+<!--            map.geoData(anychart.maps['mexico']);-->
+<!--            map.legend(true);-->
+
+<!--            // funkcja do odczytywania danych z pliku sales.csv-->
+<!--            // w tym celu używana jest biblioteka SheetJs-->
+<!--            async function readData() {-->
+<!--                // wczytanie pliku z dysku-->
+<!--                const result = await fetch("./resources/sales.csv");-->
+<!--                // konwersja do tablicy-->
+<!--                const arr = await result.arrayBuffer();-->
+<!--                // odczytanie informacji o pliku oraz danych-->
+<!--                const csv = XLSX.read(arr, { type: "array", raw: true });-->
+<!--                // zwrócenie danych z pliku csv-->
+<!--                return csv.Sheets[csv.SheetNames[0]];-->
+<!--            }-->
+
+<!--            // metoda tworząca serie danych-->
+<!--            // name - nazwa serii widoczna na legendzie-->
+<!--            // data - dane serii-->
+<!--            // color - kolor przypisany danym w serii-->
+<!--            function createSeries(name, data, color) {-->
+<!--                const series = map.marker(data);-->
+<!--                series.name(name)-->
+<!--                    .fill(color)-->
+<!--                    .stroke("2 #E1E1E1")-->
+<!--                    .type("circle")-->
+<!--                    .size(6)-->
+<!--                    .labels(true)-->
+<!--                    .selectionMode(false);-->
+<!--                series.hovered()-->
+<!--                    .stroke("2 #FFFFFF")-->
+<!--                    .size(10);-->
+<!--                series.legendItem()-->
+<!--                    .iconType("circle")-->
+<!--                    .iconFill(color)-->
+<!--                    .iconStroke("2 #E1E1E1");-->
+<!--            }-->
+
+<!--            // obliczanie zakresów serii-->
+<!--            function calculateSeriesRange(data) {-->
+<!--                const valueArr = data.map(i => i.value);-->
+<!--                const maxValue = Math.max(...valueArr);-->
+<!--                const minValue = Math.min(...valueArr);-->
+<!--                const range = Math.round(maxValue / 5);-->
+<!--                const ranges = [];-->
+<!--                for(let i = 0; i < 5; i++) {-->
+<!--                    ranges.push(minValue + range * i);-->
+<!--                }-->
+<!--                return ranges;-->
+<!--            }-->
+
+<!--            // metoda filtrująca dane-->
+<!--            // start - początek zakresu-->
+<!--            // end - koniec zakresu-->
+<!--            // data - dane do przefiltrowania-->
+<!--            function filterData(start, end, data) {-->
+<!--                let filtered = JSON.parse(JSON.stringify(data));-->
+
+<!--                if(start) {-->
+<!--                    filtered = filtered.filter(x => x.value >= start);-->
+<!--                }-->
+
+<!--                if(end) {-->
+<!--                    filtered = filtered.filter(x => x.value < end);-->
+<!--                }-->
+
+<!--                return filtered;-->
+<!--            }-->
+
+<!--            // funkcja do rysowania mapy-->
+<!--            // wykorzysta się przy modyfikacji danych-->
+<!--            function redrawMap() {-->
+<!--                // usuwa istniejące serie danych, żeby je odtworzyć-->
+<!--                map.removeAllSeries();-->
+<!--                const ranges = calculateSeriesRange(chartData);-->
+<!--                for(let i = 0; i < ranges.length; i++) {-->
+<!--                    const name = i < ranges.length - 1-->
+<!--                        ? `$${ranges[i]} - $${ranges[i + 1]}`-->
+<!--                        : `> $${ranges[i]}`;-->
+
+<!--                    const start = ranges[i];-->
+<!--                    const end = i < ranges.length - 2 ? ranges[i+1] : null;-->
+
+<!--                    createSeries(name, filterData(start, end, chartData), colorRange[i]);-->
+<!--                }-->
+
+<!--                // rysowanie mapy-->
+<!--                map.container('map-chart');-->
+<!--                map.draw();-->
+<!--            }-->
+
+<!--            // metoda tworząca suwak do zmiany zakresu dat-->
+<!--            function createSlider() {-->
+<!--                // stworzenie tablicy dat z danych wczytanych z pliku-->
+<!--                const dateRange = jsonData.map(row => row.date);-->
+
+<!--                // odnalezienie skrajnych dat-->
+<!--                const minDate = new Date(Math.min(...dateRange));-->
+<!--                const maxDate = new Date(Math.max(...dateRange));-->
+
+<!--                // stworzenie slidera na podstawie dat odczytanych z danych-->
+<!--                const slider = $("#slider-range");-->
+<!--                slider.slider({-->
+<!--                    range: true,-->
+<!--                    min: minDate.getTime() / 1000,-->
+<!--                    max: maxDate.getTime() / 1000,-->
+<!--                    step: 86400,-->
+<!--                    values: [minDate.getTime() / 1000, maxDate.getTime() / 1000],-->
+<!--                    slide: function (event, ui) {-->
+<!--                        // metoda ktora jest wywoływana kazdorazowo po zmianie zakresu dat-->
+
+<!--                        const startDate = new Date(ui.values[0] * 1000);-->
+<!--                        const endDate = new Date(ui.values[1] * 1000);-->
+<!--                        const toString = (/* @type {Date} */date) => {-->
+<!--                            const day = "" + date.getDate();-->
+<!--                            const month = "" + date.getMonth();-->
+<!--                            return `${day.padStart(2, "0")}.${month.padStart(2, "0")}.${date.getFullYear()}`-->
+<!--                        };-->
+
+<!--                        // odfiltrowanie danych spoza zakresu dat i dodanie ich-->
+<!--                        // do zbioru danych przypisanych do mapy-->
+<!--                        chartData = jsonData.filter(el => el.date >= startDate && el.date <= endDate)-->
+<!--                            .reduce((arr, el) => {-->
+<!--                                const inArr = arr.filter(e => e.name === el.name);-->
+<!--                                if(inArr.length !== 0) {-->
+<!--                                    inArr.value += el.value;-->
+<!--                                } else {-->
+<!--                                    arr.push({-->
+<!--                                        name: el.name,-->
+<!--                                        value: el.value,-->
+<!--                                        long: el.long,-->
+<!--                                        lat: el.lat,-->
+<!--                                    });-->
+<!--                                }-->
+<!--                                return arr;-->
+<!--                            }, []);-->
+
+<!--                        // przerysowanie mapy po aktualizacji danych-->
+<!--                        redrawMap();-->
+
+<!--                        // wypisanie zakresu nad sliderem-->
+<!--                        $("#amount").val(toString(startDate) + " - " + toString(endDate));-->
+<!--                    }-->
+<!--                });-->
+
+<!--                // pierwsze wypisanie zakresu nad sliderem-->
+<!--                $( "#amount" ).val( toString(new Date(slider.slider( "values", 0 )*1000)) +-->
+<!--                    " - " + toString(new Date(slider.slider( "values", 1 )*1000)));-->
+<!--            }-->
+
+<!--            // Pierwsze załadowanie mapy po ząładowaniu się strony-->
+<!--            anychart.onDocumentReady(async function() {-->
+<!--                // read data-->
+<!--                const sheetData = await readData();-->
+<!--                jsonData = XLSX.utils.sheet_to_json(sheetData)-->
+
+<!--                // konwersja danych - daty i wartości-->
+<!--                jsonData = jsonData.map(row => ({-->
+<!--                    ...row,-->
+<!--                    value: parseFloat(row.value),-->
+<!--                    date: new Date(-->
+<!--                        parseInt(row.date.split(".")[2]),-->
+<!--                        parseInt(row.date.split(".")[1]),-->
+<!--                        parseInt(row.date.split(".")[0])),-->
+<!--                }));-->
+
+<!--                // sumowanie watości dla każdego z miast-->
+<!--                chartData = jsonData.reduce((arr, el) => {-->
+<!--                    const inArr = arr.filter(e => e.name === el.name);-->
+<!--                    if(inArr.length !== 0) {-->
+<!--                        inArr.value += el.value;-->
+<!--                    } else {-->
+<!--                        arr.push({-->
+<!--                            name: el.name,-->
+<!--                            value: el.value,-->
+<!--                            long: el.long,-->
+<!--                            lat: el.lat,-->
+<!--                        });-->
+<!--                    }-->
+<!--                    return arr;-->
+<!--                }, []);-->
+
+<!--                redrawMap();-->
+<!--                createSlider();-->
+<!--            });-->
+<!--        </script>-->
+    </body>
+</html>
