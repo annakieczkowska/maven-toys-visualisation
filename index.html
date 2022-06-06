@@ -193,7 +193,7 @@
 
         const toString = (date) => {
             const day = "" + date.getDate();
-            const month = "" + date.getMonth();
+            const month = "" + date.getMonth() + 1;
             return `${day.padStart(2, "0")}.${month.padStart(2, "0")}.${date.getFullYear()}`
         };
 
@@ -259,7 +259,7 @@
         }));
 
         chartData = jsonData.reduce(reducer, []);
-        console.dir(chartData);
+
         redrawMap();
         createSlider();
     });
