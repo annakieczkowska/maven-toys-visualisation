@@ -1,0 +1,1329 @@
+﻿date;city;store;long;lat;value
+01.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;373,8
+01.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;283,9
+01.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;534,52
+01.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;321,62
+01.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;735,53
+01.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;343,68
+01.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;955,46
+01.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;955,29
+01.01.2017;Durango;Maven Toys Durango 1;-104.65333;24.02617;59,94
+01.01.2017;Cuernavaca;Maven Toys Cuernavaca 1;-99.22452;18.93529;26,97
+01.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;313,61
+01.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;164,85
+01.01.2017;Hermosillo;Maven Toys Hermosillo 3;-110.954167;29.098889;90,85
+01.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;107,88
+01.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;154,83
+01.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;461,73
+01.01.2017;Guanajuato;Maven Toys Guanajuato 3;-101.25859;21.01378;1032,06
+01.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;279,86
+01.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;737,54
+01.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;487,63
+01.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;283,8
+01.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;1054,3
+01.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;504,64
+01.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;334,55
+01.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;149,9
+01.01.2017;Merida;Maven Toys Merida 1;-114.92036;32.66117;269,82
+01.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;469,6
+01.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;89,94
+01.01.2017;Puebla;Maven Toys Puebla 1;-98.20079;19.04177;1188,12
+01.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;94,94
+01.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;300,67
+01.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;778,21
+01.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;1147,52
+01.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;680,63
+01.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;34,95
+01.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;301,68
+01.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;2175,22
+01.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;467,51
+01.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;960,55
+01.01.2017;Toluca;Maven Toys Toluca 2;-99.6615;19.22035;299,84
+01.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;87,92
+01.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;194,85
+01.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;199,95
+01.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;93,88
+01.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;315,83
+01.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;175,78
+02.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;415,68
+02.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;319,92
+02.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;394,76
+02.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;625,57
+02.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;267,75
+02.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;464,43
+02.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;149,9
+02.01.2017;Campeche;Maven Toys Campeche 2;-90.48665;19.84618;261,88
+02.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;210,81
+02.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;343,7
+02.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;127,84
+02.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;255,76
+02.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;223,86
+02.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;384,78
+02.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;388,59
+02.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;1176,13
+02.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;219,89
+02.01.2017;Puebla;Maven Toys Puebla 1;-98.20079;19.04177;704,31
+02.01.2017;Merida;Maven Toys Merida 1;-114.92036;32.66117;749,5
+02.01.2017;Durango;Maven Toys Durango 1;-104.65333;24.02617;708,47
+02.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;1098,08
+02.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;218,86
+02.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;114,89
+02.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;716,45
+02.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;1122,2
+02.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;281,82
+02.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;524,67
+02.01.2017;Guanajuato;Maven Toys Guanajuato 3;-101.25859;21.01378;479,56
+02.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;640,48
+02.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;341,78
+02.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;485,58
+02.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;589,61
+02.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;154,81
+02.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;1669,44
+02.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;658,44
+02.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;864,44
+02.01.2017;Hermosillo;Maven Toys Hermosillo 3;-110.954167;29.098889;534,81
+02.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;31,98
+02.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;63,96
+02.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;637,63
+02.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;127,92
+03.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;126,87
+03.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;224,86
+03.01.2017;Merida;Maven Toys Merida 1;-114.92036;32.66117;501,86
+03.01.2017;Cuernavaca;Maven Toys Cuernavaca 1;-99.22452;18.93529;1069,37
+03.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;111,93
+03.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;64,95
+03.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;291,8
+03.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;113,85
+03.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;32,97
+03.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;48,93
+03.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;329,78
+03.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;454,74
+03.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;839,7
+03.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;164,85
+03.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;212,85
+03.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;157,86
+03.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;866,35
+03.01.2017;Hermosillo;Maven Toys Hermosillo 3;-110.954167;29.098889;181,87
+03.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;264,86
+03.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;144,87
+03.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;1034,55
+03.01.2017;Guanajuato;Maven Toys Guanajuato 3;-101.25859;21.01378;1019,57
+03.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;87,92
+03.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;219,73
+03.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;260,72
+03.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;59,94
+03.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;149,9
+03.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;144,87
+03.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;189,89
+03.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;104,93
+03.01.2017;Tuxtla Gutierrez;Maven Toys Tuxtla Gutierrez 1;-93.11945;16.75455;542,79
+03.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;39,95
+03.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;25,98
+03.01.2017;Toluca;Maven Toys Toluca 2;-99.6615;19.22035;302,57
+03.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;283,83
+03.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;124,89
+03.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;962,35
+04.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;711,56
+04.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;689,52
+04.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;164,89
+04.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;534,69
+04.01.2017;Campeche;Maven Toys Campeche 2;-90.48665;19.84618;418,63
+04.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;725,42
+04.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;544,54
+04.01.2017;Cuernavaca;Maven Toys Cuernavaca 1;-99.22452;18.93529;337,78
+04.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;573,6
+04.01.2017;Durango;Maven Toys Durango 1;-104.65333;24.02617;575,39
+04.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;239,88
+04.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;53,94
+04.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;409,68
+04.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;839,77
+04.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;164,89
+04.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;175,89
+04.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;191,88
+04.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;95,94
+04.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;239,86
+04.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;374,83
+04.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;142,87
+04.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;183,87
+04.01.2017;Puebla;Maven Toys Puebla 1;-98.20079;19.04177;179,88
+04.01.2017;Merida;Maven Toys Merida 1;-114.92036;32.66117;259,9
+04.01.2017;Hermosillo;Maven Toys Hermosillo 3;-110.954167;29.098889;274,78
+04.01.2017;Guanajuato;Maven Toys Guanajuato 3;-101.25859;21.01378;8,97
+04.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;142,82
+04.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;278,78
+04.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;197,74
+04.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;202,9
+04.01.2017;Toluca;Maven Toys Toluca 2;-99.6615;19.22035;268,79
+04.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;1209,42
+04.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;122,9
+04.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;134,91
+04.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;683,48
+04.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;244,92
+04.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;711,75
+04.01.2017;Zacatecas;Maven Toys Zacatecas 1;-102.57982;22.76495;199,95
+04.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;134,91
+04.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;179,88
+04.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;940,43
+04.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;47,97
+05.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;614,58
+05.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;1066,25
+05.01.2017;Cuernavaca;Maven Toys Cuernavaca 1;-99.22452;18.93529;34,93
+05.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;699,52
+05.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;1195,96
+05.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;162,86
+05.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;207,87
+05.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;14,99
+05.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;612,64
+05.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;216,77
+05.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;349,83
+05.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;125,82
+05.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;107,88
+05.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;553,68
+05.01.2017;Campeche;Maven Toys Campeche 2;-90.48665;19.84618;914,35
+05.01.2017;Merida;Maven Toys Merida 1;-114.92036;32.66117;139,89
+05.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;443,69
+05.01.2017;Durango;Maven Toys Durango 1;-104.65333;24.02617;103,96
+05.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;517,76
+05.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;120,89
+05.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;594,57
+05.01.2017;Hermosillo;Maven Toys Hermosillo 3;-110.954167;29.098889;614,59
+05.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;800,33
+05.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;356,73
+05.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;440,58
+05.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;909,63
+05.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;119,92
+05.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;262,86
+05.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;157,85
+05.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;1535,14
+05.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;288,76
+05.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;521,7
+05.01.2017;Zacatecas;Maven Toys Zacatecas 1;-102.57982;22.76495;229,84
+05.01.2017;Guanajuato;Maven Toys Guanajuato 3;-101.25859;21.01378;294,69
+05.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;537,62
+05.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;483,7
+05.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;95,94
+05.01.2017;Puebla;Maven Toys Puebla 1;-98.20079;19.04177;743,71
+05.01.2017;Tuxtla Gutierrez;Maven Toys Tuxtla Gutierrez 1;-93.11945;16.75455;947,38
+05.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;104,93
+05.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;34,95
+05.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;272,74
+05.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;513,59
+05.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;53,88
+05.01.2017;Toluca;Maven Toys Toluca 2;-99.6615;19.22035;311,73
+05.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;359,82
+06.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;888,36
+06.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;858,32
+06.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;334,67
+06.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;282,77
+06.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;358,66
+06.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;83,88
+06.01.2017;Merida;Maven Toys Merida 1;-114.92036;32.66117;38,97
+06.01.2017;Cuernavaca;Maven Toys Cuernavaca 1;-99.22452;18.93529;1071,29
+06.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;138,83
+06.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;666,62
+06.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;1584,06
+06.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;400,69
+06.01.2017;Hermosillo;Maven Toys Hermosillo 3;-110.954167;29.098889;744,77
+06.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;817,44
+06.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;164,85
+06.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;2051,67
+06.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;1275,24
+06.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;420,65
+06.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;327,7
+06.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;174,87
+06.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;334,8
+06.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;1154,24
+06.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;807,62
+06.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;417,71
+06.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;383,76
+06.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;1058,31
+06.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;39,98
+06.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;282,75
+06.01.2017;Puebla;Maven Toys Puebla 1;-98.20079;19.04177;59,88
+06.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;468,62
+06.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;236,81
+06.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;339,76
+06.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;1044,41
+06.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;307,78
+06.01.2017;Guanajuato;Maven Toys Guanajuato 3;-101.25859;21.01378;294,76
+06.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;32,97
+06.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;77,94
+06.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;148,87
+06.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;648,64
+06.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;851,43
+06.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;753,49
+06.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;209,86
+06.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;379,81
+06.01.2017;Zacatecas;Maven Toys Zacatecas 1;-102.57982;22.76495;111,93
+06.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;1976,87
+06.01.2017;Tuxtla Gutierrez;Maven Toys Tuxtla Gutierrez 1;-93.11945;16.75455;528,33
+06.01.2017;Toluca;Maven Toys Toluca 2;-99.6615;19.22035;49,9
+07.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;437,73
+07.01.2017;Hermosillo;Maven Toys Hermosillo 3;-110.954167;29.098889;134,91
+07.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;76,89
+07.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;600,61
+07.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;51,96
+07.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;59,94
+07.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;577,55
+07.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;204,84
+07.01.2017;Campeche;Maven Toys Campeche 2;-90.48665;19.84618;830,49
+07.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;1051,32
+07.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;326,78
+07.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;51,96
+07.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;769,48
+07.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;110,88
+07.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;815,7
+07.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;689,68
+07.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;80,91
+07.01.2017;Puebla;Maven Toys Puebla 1;-98.20079;19.04177;132,81
+07.01.2017;Merida;Maven Toys Merida 1;-114.92036;32.66117;450,67
+07.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;764,53
+07.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;76,89
+07.01.2017;Guanajuato;Maven Toys Guanajuato 3;-101.25859;21.01378;149,94
+07.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;108,84
+07.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;497,66
+07.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;551,64
+07.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;39,98
+07.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;689,54
+07.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;727,29
+07.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;909,56
+07.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;823,61
+07.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;179,88
+07.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;333,68
+07.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;686,65
+07.01.2017;Toluca;Maven Toys Toluca 2;-99.6615;19.22035;31,98
+07.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;1633,12
+07.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;511,73
+07.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;1229,56
+07.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;859,36
+07.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;1160,23
+07.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;1228,22
+07.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;254,83
+07.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;571,78
+07.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;256,81
+07.01.2017;Tuxtla Gutierrez;Maven Toys Tuxtla Gutierrez 1;-93.11945;16.75455;194,79
+08.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;463,64
+08.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;1151,95
+08.01.2017;Cuernavaca;Maven Toys Cuernavaca 1;-99.22452;18.93529;794,09
+08.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;359,91
+08.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;529,4
+08.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;492,54
+08.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;341,68
+08.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;139,74
+08.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;765,2
+08.01.2017;Durango;Maven Toys Durango 1;-104.65333;24.02617;208,81
+08.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;683,55
+08.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;441,6
+08.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;854,37
+08.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;151,86
+08.01.2017;Campeche;Maven Toys Campeche 2;-90.48665;19.84618;845,41
+08.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;864,48
+08.01.2017;Hermosillo;Maven Toys Hermosillo 3;-110.954167;29.098889;314,55
+08.01.2017;Guanajuato;Maven Toys Guanajuato 3;-101.25859;21.01378;618,49
+08.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;41,94
+08.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;204,81
+08.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;741,47
+08.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;599,48
+08.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;259,87
+08.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;264,69
+08.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;2187,75
+08.01.2017;Merida;Maven Toys Merida 1;-114.92036;32.66117;521,61
+08.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;149,84
+08.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;181,86
+08.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;302,81
+08.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;201,78
+08.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;223,87
+08.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;530,71
+08.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;147,76
+08.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;1098,31
+08.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;203,76
+08.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;293,79
+08.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;599,6
+08.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;229,74
+08.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;395,77
+08.01.2017;Zacatecas;Maven Toys Zacatecas 1;-102.57982;22.76495;683,59
+08.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;524,61
+08.01.2017;Tuxtla Gutierrez;Maven Toys Tuxtla Gutierrez 1;-93.11945;16.75455;304,84
+08.01.2017;Puebla;Maven Toys Puebla 1;-98.20079;19.04177;154,83
+08.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;314,83
+08.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;605,18
+08.01.2017;Toluca;Maven Toys Toluca 2;-99.6615;19.22035;262,63
+09.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;279,86
+09.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;438,67
+09.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;98,89
+09.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;39,98
+09.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;54,95
+09.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;344,81
+09.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;158,83
+09.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;219,84
+09.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;194,87
+09.01.2017;Durango;Maven Toys Durango 1;-104.65333;24.02617;314,79
+09.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;1025,55
+09.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;10,99
+09.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;814,27
+09.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;242,79
+09.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;499,72
+09.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;1065,26
+09.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;134,81
+09.01.2017;Guanajuato;Maven Toys Guanajuato 3;-101.25859;21.01378;295,77
+09.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;395,64
+09.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;299,9
+09.01.2017;Merida;Maven Toys Merida 1;-114.92036;32.66117;176,85
+09.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;255,84
+09.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;11,96
+09.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;184,84
+09.01.2017;Hermosillo;Maven Toys Hermosillo 3;-110.954167;29.098889;99,95
+09.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;279,84
+09.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;65,94
+09.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;314,79
+09.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;74,95
+09.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;48,93
+09.01.2017;Tuxtla Gutierrez;Maven Toys Tuxtla Gutierrez 1;-93.11945;16.75455;569,62
+09.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;269,8
+09.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;27,96
+09.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;188,85
+09.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;79,95
+09.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;267,79
+09.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;1022,53
+09.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;443,84
+09.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;251,8
+09.01.2017;Puebla;Maven Toys Puebla 1;-98.20079;19.04177;146,79
+09.01.2017;Zacatecas;Maven Toys Zacatecas 1;-102.57982;22.76495;399,76
+09.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;149,9
+10.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;491,64
+10.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;380,73
+10.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;406,77
+10.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;350,76
+10.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;464,7
+10.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;181,82
+10.01.2017;Campeche;Maven Toys Campeche 2;-90.48665;19.84618;155,94
+10.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;179,88
+10.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;538,35
+10.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;434,71
+10.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;226,79
+10.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;872,55
+10.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;143,91
+10.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;207,84
+10.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;239,84
+10.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;285,78
+10.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;250,77
+10.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;421,73
+10.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;64,95
+10.01.2017;Durango;Maven Toys Durango 1;-104.65333;24.02617;271,83
+10.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;507,61
+10.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;74,95
+10.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;793,51
+10.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;200,81
+10.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;98,91
+10.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;371,71
+10.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;227,91
+10.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;156,81
+10.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;1029,1
+10.01.2017;Puebla;Maven Toys Puebla 1;-98.20079;19.04177;34,95
+10.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;589,58
+10.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;8,99
+10.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;89,94
+10.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;208,83
+10.01.2017;Zacatecas;Maven Toys Zacatecas 1;-102.57982;22.76495;224,85
+10.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;359,76
+10.01.2017;Tuxtla Gutierrez;Maven Toys Tuxtla Gutierrez 1;-93.11945;16.75455;94,94
+10.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;64,95
+11.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;189,91
+11.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;289,85
+11.01.2017;Cuernavaca;Maven Toys Cuernavaca 1;-99.22452;18.93529;756,52
+11.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;87,92
+11.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;331,73
+11.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;357,64
+11.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;1625,02
+11.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;867,51
+11.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;209,86
+11.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;59,96
+11.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;155,88
+11.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;800,44
+11.01.2017;Merida;Maven Toys Merida 1;-114.92036;32.66117;26,91
+11.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;179,88
+11.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;74,95
+11.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;482,61
+11.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;59,96
+11.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;23,92
+11.01.2017;Durango;Maven Toys Durango 1;-104.65333;24.02617;389,79
+11.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;95,92
+11.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;464,67
+11.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;74,95
+11.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;1020,34
+11.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;640,53
+11.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;118,91
+11.01.2017;Guanajuato;Maven Toys Guanajuato 3;-101.25859;21.01378;4,99
+11.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;532,67
+11.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;31,98
+11.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;99,9
+11.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;342,67
+11.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;239,86
+11.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;146,83
+11.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;177,86
+11.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;734,41
+11.01.2017;Tuxtla Gutierrez;Maven Toys Tuxtla Gutierrez 1;-93.11945;16.75455;124,89
+11.01.2017;Puebla;Maven Toys Puebla 1;-98.20079;19.04177;754,78
+11.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;79,95
+11.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;98,91
+11.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;239,84
+12.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;345,74
+12.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;592,59
+12.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;674,55
+12.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;269,79
+12.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;111,84
+12.01.2017;Campeche;Maven Toys Campeche 2;-90.48665;19.84618;179,8
+12.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;134,91
+12.01.2017;Merida;Maven Toys Merida 1;-114.92036;32.66117;414,71
+12.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;168,9
+12.01.2017;Durango;Maven Toys Durango 1;-104.65333;24.02617;99,95
+12.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;480,41
+12.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;434,71
+12.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;207,92
+12.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;805,25
+12.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;76,93
+12.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;239,85
+12.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;993,39
+12.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;943,47
+12.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;218,86
+12.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;259,87
+12.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;59,96
+12.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;252,73
+12.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;874,51
+12.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;164,89
+12.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;179,89
+12.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;76,93
+12.01.2017;Zacatecas;Maven Toys Zacatecas 1;-102.57982;22.76495;309,66
+12.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;153,78
+12.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;821,5
+12.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;79,98
+12.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;155,9
+12.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;89,94
+12.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;185,78
+12.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;578,51
+12.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;191,86
+12.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;479,88
+12.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;173,86
+12.01.2017;Tuxtla Gutierrez;Maven Toys Tuxtla Gutierrez 1;-93.11945;16.75455;362,78
+13.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;599,62
+13.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;69,9
+13.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;76,89
+13.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;367,78
+13.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;119,88
+13.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;69,93
+13.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;352,76
+13.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;571,6
+13.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;719,52
+13.01.2017;Durango;Maven Toys Durango 1;-104.65333;24.02617;363,72
+13.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;849,57
+13.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;120,89
+13.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;626,66
+13.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;53,82
+13.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;244,78
+13.01.2017;Campeche;Maven Toys Campeche 2;-90.48665;19.84618;319,68
+13.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;27,96
+13.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;181,93
+13.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;625,56
+13.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;1050,29
+13.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;930,62
+13.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;792,4
+13.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;603,74
+13.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;408,67
+13.01.2017;Toluca;Maven Toys Toluca 2;-99.6615;19.22035;710,55
+13.01.2017;Guanajuato;Maven Toys Guanajuato 3;-101.25859;21.01378;152,89
+13.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;1812,43
+13.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;11,96
+13.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;32,97
+13.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;956,28
+13.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;11,97
+13.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;149,8
+13.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;611,58
+13.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;69,9
+13.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;803,32
+13.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;89,94
+13.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;470,59
+13.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;547,46
+13.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;288,78
+13.01.2017;Puebla;Maven Toys Puebla 1;-98.20079;19.04177;744,38
+13.01.2017;Tuxtla Gutierrez;Maven Toys Tuxtla Gutierrez 1;-93.11945;16.75455;1052,31
+13.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;347,84
+14.01.2017;Cuernavaca;Maven Toys Cuernavaca 1;-99.22452;18.93529;473,62
+14.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;625,55
+14.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;217,84
+14.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;96,83
+14.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;551,68
+14.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;771,53
+14.01.2017;Campeche;Maven Toys Campeche 2;-90.48665;19.84618;239,76
+14.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;1019,09
+14.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;1171,6
+14.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;449,7
+14.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;271,76
+14.01.2017;Merida;Maven Toys Merida 1;-114.92036;32.66117;613,57
+14.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;134,91
+14.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;208,73
+14.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;644,61
+14.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;369,76
+14.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;801,51
+14.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;64,95
+14.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;779,23
+14.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;124,81
+14.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;174,83
+14.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;48,93
+14.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;153,74
+14.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;593,71
+14.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;289,8
+14.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;249,7
+14.01.2017;Durango;Maven Toys Durango 1;-104.65333;24.02617;119,94
+14.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;403,61
+14.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;239,88
+14.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;343,81
+14.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;692,47
+14.01.2017;Hermosillo;Maven Toys Hermosillo 3;-110.954167;29.098889;749,5
+14.01.2017;Zacatecas;Maven Toys Zacatecas 1;-102.57982;22.76495;199,95
+14.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;903,3
+14.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;79,95
+14.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;216,77
+14.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;700,69
+14.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;441,53
+14.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;230,75
+14.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;1269,03
+14.01.2017;Puebla;Maven Toys Puebla 1;-98.20079;19.04177;191,88
+14.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;493,65
+14.01.2017;Guanajuato;Maven Toys Guanajuato 3;-101.25859;21.01378;239,94
+14.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;34,95
+14.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;458,64
+14.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;653,66
+14.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;220,83
+14.01.2017;Tuxtla Gutierrez;Maven Toys Tuxtla Gutierrez 1;-93.11945;16.75455;624,41
+15.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;347,72
+15.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;303,63
+15.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;62,91
+15.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;227,81
+15.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;784,72
+15.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;903,18
+15.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;289,66
+15.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;1389
+15.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;44,95
+15.01.2017;Campeche;Maven Toys Campeche 2;-90.48665;19.84618;74,95
+15.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;1109,05
+15.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;353,75
+15.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;575,44
+15.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;284,81
+15.01.2017;Cuernavaca;Maven Toys Cuernavaca 1;-99.22452;18.93529;246,84
+15.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;104,85
+15.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;207,78
+15.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;1839,06
+15.01.2017;Merida;Maven Toys Merida 1;-114.92036;32.66117;34,95
+15.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;317,68
+15.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;439,89
+15.01.2017;Hermosillo;Maven Toys Hermosillo 3;-110.954167;29.098889;642,49
+15.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;376,58
+15.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;750,42
+15.01.2017;Guanajuato;Maven Toys Guanajuato 3;-101.25859;21.01378;505,7
+15.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;119,92
+15.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;1313,21
+15.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;651,61
+15.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;451,64
+15.01.2017;Toluca;Maven Toys Toluca 2;-99.6615;19.22035;436,55
+15.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;461,62
+15.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;1008,03
+15.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;254,72
+15.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;237,8
+15.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;1289,14
+15.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;581,62
+15.01.2017;Puebla;Maven Toys Puebla 1;-98.20079;19.04177;738,42
+15.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;159,92
+15.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;519,87
+15.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;195,78
+15.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;142,83
+15.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;651,44
+15.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;763,53
+15.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;253,83
+15.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;62,91
+15.01.2017;Tuxtla Gutierrez;Maven Toys Tuxtla Gutierrez 1;-93.11945;16.75455;139,84
+15.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;638,44
+15.01.2017;Zacatecas;Maven Toys Zacatecas 1;-102.57982;22.76495;928,37
+16.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;776,57
+16.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;155,88
+16.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;917,3
+16.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;381,66
+16.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;342,77
+16.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;1525,12
+16.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;159,9
+16.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;301,8
+16.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;219,89
+16.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;236,77
+16.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;265,56
+16.01.2017;Durango;Maven Toys Durango 1;-104.65333;24.02617;318,59
+16.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;44,97
+16.01.2017;Hermosillo;Maven Toys Hermosillo 3;-110.954167;29.098889;191,88
+16.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;121,92
+16.01.2017;Campeche;Maven Toys Campeche 2;-90.48665;19.84618;86,93
+16.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;187,88
+16.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;104,93
+16.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;164,89
+16.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;20,97
+16.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;29,9
+16.01.2017;Toluca;Maven Toys Toluca 2;-99.6615;19.22035;720,75
+16.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;238,83
+16.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;111,86
+16.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;584,61
+16.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;629,78
+16.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;196,81
+16.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;143,91
+16.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;47,97
+16.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;252,77
+16.01.2017;Puebla;Maven Toys Puebla 1;-98.20079;19.04177;32,97
+16.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;204,88
+16.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;263,8
+16.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;618,59
+16.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;289,84
+16.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;225,78
+16.01.2017;Tuxtla Gutierrez;Maven Toys Tuxtla Gutierrez 1;-93.11945;16.75455;446,71
+17.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;674,45
+17.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;44,91
+17.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;493,66
+17.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;830,33
+17.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;407,62
+17.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;134,85
+17.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;599,74
+17.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;140,89
+17.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;209,86
+17.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;472,63
+17.01.2017;Cuernavaca;Maven Toys Cuernavaca 1;-99.22452;18.93529;815,55
+17.01.2017;Durango;Maven Toys Durango 1;-104.65333;24.02617;181,93
+17.01.2017;Campeche;Maven Toys Campeche 2;-90.48665;19.84618;179,91
+17.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;97,92
+17.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;95,94
+17.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;247,84
+17.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;375,74
+17.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;1323,55
+17.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;239,84
+17.01.2017;Guanajuato;Maven Toys Guanajuato 3;-101.25859;21.01378;337,87
+17.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;385,72
+17.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;329,78
+17.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;214,75
+17.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;639,84
+17.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;293,79
+17.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;129,9
+17.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;178,87
+17.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;493,68
+17.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;53,94
+17.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;76,93
+17.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;35,96
+17.01.2017;Puebla;Maven Toys Puebla 1;-98.20079;19.04177;70,89
+17.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;903,4
+17.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;129,9
+17.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;393,68
+17.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;219,89
+17.01.2017;Tuxtla Gutierrez;Maven Toys Tuxtla Gutierrez 1;-93.11945;16.75455;411,68
+17.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;366,82
+17.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;577,63
+17.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;468,65
+17.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;39,99
+17.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;400,82
+17.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;152,87
+18.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;334,75
+18.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;425,73
+18.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;159,9
+18.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;163,8
+18.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;219,82
+18.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;317,74
+18.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;404,73
+18.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;332,75
+18.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;781,46
+18.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;34,95
+18.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;439,89
+18.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;411,66
+18.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;601,67
+18.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;48,93
+18.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;79,96
+18.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;149,9
+18.01.2017;Hermosillo;Maven Toys Hermosillo 3;-110.954167;29.098889;1475,19
+18.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;15,99
+18.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;224,85
+18.01.2017;Guanajuato;Maven Toys Guanajuato 3;-101.25859;21.01378;35,96
+18.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;21,98
+18.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;151,84
+18.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;644,49
+18.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;239,84
+18.01.2017;Tuxtla Gutierrez;Maven Toys Tuxtla Gutierrez 1;-93.11945;16.75455;134,91
+18.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;77,94
+18.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;260,65
+18.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;73,92
+18.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;844,64
+18.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;1162,22
+18.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;1002,59
+18.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;199,76
+18.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;877,37
+19.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;191,88
+19.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;55,92
+19.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;220,81
+19.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;1058,2
+19.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;207,84
+19.01.2017;Cuernavaca;Maven Toys Cuernavaca 1;-99.22452;18.93529;129,95
+19.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;234,85
+19.01.2017;Merida;Maven Toys Merida 1;-114.92036;32.66117;1215,63
+19.01.2017;Campeche;Maven Toys Campeche 2;-90.48665;19.84618;373,71
+19.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;815,36
+19.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;331,74
+19.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;39,99
+19.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;351,78
+19.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;161,82
+19.01.2017;Durango;Maven Toys Durango 1;-104.65333;24.02617;54,95
+19.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;412,74
+19.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;98,91
+19.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;373,66
+19.01.2017;Hermosillo;Maven Toys Hermosillo 3;-110.954167;29.098889;399,8
+19.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;409,77
+19.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;985,59
+19.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;236,79
+19.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;98,91
+19.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;74,92
+19.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;368,73
+19.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;252,77
+19.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;98,89
+19.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;1033,45
+19.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;325,76
+19.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;447,68
+19.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;142,89
+19.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;831,33
+19.01.2017;Tuxtla Gutierrez;Maven Toys Tuxtla Gutierrez 1;-93.11945;16.75455;192,85
+19.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;77,94
+19.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;524,59
+19.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;229,84
+19.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;658,71
+19.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;322,68
+19.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;484,72
+19.01.2017;Zacatecas;Maven Toys Zacatecas 1;-102.57982;22.76495;44,91
+20.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;74,95
+20.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;269,82
+20.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;150,92
+20.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;439,89
+20.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;99,94
+20.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;59,94
+20.01.2017;Cuernavaca;Maven Toys Cuernavaca 1;-99.22452;18.93529;362,59
+20.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;337,87
+20.01.2017;Durango;Maven Toys Durango 1;-104.65333;24.02617;581,8
+20.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;565,64
+20.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;937,28
+20.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;172,81
+20.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;754,74
+20.01.2017;Campeche;Maven Toys Campeche 2;-90.48665;19.84618;32,97
+20.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;575,52
+20.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;412,69
+20.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;436,69
+20.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;449,82
+20.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;1084,45
+20.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;302,77
+20.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;210,7
+20.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;44,97
+20.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;1127,08
+20.01.2017;Hermosillo;Maven Toys Hermosillo 3;-110.954167;29.098889;224,85
+20.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;557,7
+20.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;187,8
+20.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;252,78
+20.01.2017;Toluca;Maven Toys Toluca 2;-99.6615;19.22035;429,7
+20.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;74,95
+20.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;43,95
+20.01.2017;Zacatecas;Maven Toys Zacatecas 1;-102.57982;22.76495;199,9
+20.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;379,68
+20.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;640,48
+20.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;55,92
+20.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;142,87
+20.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;44,92
+20.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;192,87
+20.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;273,8
+20.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;241,78
+20.01.2017;Tuxtla Gutierrez;Maven Toys Tuxtla Gutierrez 1;-93.11945;16.75455;445,81
+20.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;882,53
+20.01.2017;Puebla;Maven Toys Puebla 1;-98.20079;19.04177;640,63
+20.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;139,93
+20.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;348,79
+20.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;19,99
+21.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;193,86
+21.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;1515,49
+21.01.2017;Cuernavaca;Maven Toys Cuernavaca 1;-99.22452;18.93529;620,54
+21.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;523,67
+21.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;272,81
+21.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;402,64
+21.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;358,77
+21.01.2017;Merida;Maven Toys Merida 1;-114.92036;32.66117;1226,22
+21.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;139,93
+21.01.2017;Durango;Maven Toys Durango 1;-104.65333;24.02617;51,96
+21.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;1290,66
+21.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;801,2
+21.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;59,94
+21.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;795,27
+21.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;164,89
+21.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;303,79
+21.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;569,62
+21.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;275,82
+21.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;1030,29
+21.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;200,59
+21.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;379,64
+21.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;41,94
+21.01.2017;Campeche;Maven Toys Campeche 2;-90.48665;19.84618;167,77
+21.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;594,75
+21.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;919,77
+21.01.2017;Guanajuato;Maven Toys Guanajuato 3;-101.25859;21.01378;291,77
+21.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;1062,27
+21.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;245,82
+21.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;762,45
+21.01.2017;Puebla;Maven Toys Puebla 1;-98.20079;19.04177;199,9
+21.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;241,85
+21.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;139,86
+21.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;1100,45
+21.01.2017;Hermosillo;Maven Toys Hermosillo 3;-110.954167;29.098889;1513,98
+21.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;1424,98
+21.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;401,54
+21.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;224,85
+21.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;299,85
+21.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;1755,98
+21.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;672,57
+21.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;283,76
+21.01.2017;Toluca;Maven Toys Toluca 2;-99.6615;19.22035;48,93
+21.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;143,91
+21.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;529,78
+21.01.2017;Zacatecas;Maven Toys Zacatecas 1;-102.57982;22.76495;980,62
+21.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;577,68
+21.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;186,79
+22.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;54,93
+22.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;593,73
+22.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;1074,39
+22.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;635,6
+22.01.2017;Campeche;Maven Toys Campeche 2;-90.48665;19.84618;766,49
+22.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;119,88
+22.01.2017;Cuernavaca;Maven Toys Cuernavaca 1;-99.22452;18.93529;19,96
+22.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;502,57
+22.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;174,89
+22.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;89,94
+22.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;39,98
+22.01.2017;Durango;Maven Toys Durango 1;-104.65333;24.02617;44,97
+22.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;115,88
+22.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;645,37
+22.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;114,86
+22.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;204,88
+22.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;362,75
+22.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;55,92
+22.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;361,79
+22.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;393,75
+22.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;401,78
+22.01.2017;Hermosillo;Maven Toys Hermosillo 3;-110.954167;29.098889;269,82
+22.01.2017;Merida;Maven Toys Merida 1;-114.92036;32.66117;567,54
+22.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;64,95
+22.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;232,73
+22.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;253,76
+22.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;623,39
+22.01.2017;Guanajuato;Maven Toys Guanajuato 3;-101.25859;21.01378;439,89
+22.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;797,47
+22.01.2017;Puebla;Maven Toys Puebla 1;-98.20079;19.04177;109,9
+22.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;413,73
+22.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;810,58
+22.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;903,11
+22.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;739,6
+22.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;537,6
+22.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;296,77
+22.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;276,81
+22.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;574,7
+22.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;1853,97
+22.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;1936,94
+22.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;326,65
+22.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;1019,48
+22.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;901,4
+22.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;110,88
+22.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;338,63
+22.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;115,88
+22.01.2017;Zacatecas;Maven Toys Zacatecas 1;-102.57982;22.76495;116,87
+22.01.2017;Toluca;Maven Toys Toluca 2;-99.6615;19.22035;344,57
+22.01.2017;Tuxtla Gutierrez;Maven Toys Tuxtla Gutierrez 1;-93.11945;16.75455;9,99
+23.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;270,79
+23.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;227,82
+23.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;303,77
+23.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;659,36
+23.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;117,85
+23.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;546,67
+23.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;179,91
+23.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;796,5
+23.01.2017;Campeche;Maven Toys Campeche 2;-90.48665;19.84618;164,89
+23.01.2017;Hermosillo;Maven Toys Hermosillo 3;-110.954167;29.098889;206,75
+23.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;815,59
+23.01.2017;Cuernavaca;Maven Toys Cuernavaca 1;-99.22452;18.93529;159,96
+23.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;174,93
+23.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;453,62
+23.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;450,59
+23.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;44,97
+23.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;637,3
+23.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;504,7
+23.01.2017;Merida;Maven Toys Merida 1;-114.92036;32.66117;284,81
+23.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;520,69
+23.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;659,5
+23.01.2017;Durango;Maven Toys Durango 1;-104.65333;24.02617;111,84
+23.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;279,89
+23.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;281,76
+23.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;175,84
+23.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;43,96
+23.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;168,81
+23.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;508,82
+23.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;329,76
+23.01.2017;Guanajuato;Maven Toys Guanajuato 3;-101.25859;21.01378;355,77
+23.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;899,4
+23.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;371,8
+23.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;495,84
+23.01.2017;Toluca;Maven Toys Toluca 2;-99.6615;19.22035;47,97
+23.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;365,79
+23.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;199,9
+23.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;223,86
+23.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;207,87
+23.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;434,71
+23.01.2017;Zacatecas;Maven Toys Zacatecas 1;-102.57982;22.76495;35,88
+23.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;966,38
+23.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;149,9
+23.01.2017;Tuxtla Gutierrez;Maven Toys Tuxtla Gutierrez 1;-93.11945;16.75455;54,97
+24.01.2017;Cuernavaca;Maven Toys Cuernavaca 1;-99.22452;18.93529;153,86
+24.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;373,62
+24.01.2017;Hermosillo;Maven Toys Hermosillo 3;-110.954167;29.098889;488,53
+24.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;435,67
+24.01.2017;Campeche;Maven Toys Campeche 2;-90.48665;19.84618;374,67
+24.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;98,91
+24.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;104,93
+24.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;998,92
+24.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;405,72
+24.01.2017;Merida;Maven Toys Merida 1;-114.92036;32.66117;239,84
+24.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;127,8
+24.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;544,77
+24.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;76,89
+24.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;8,99
+24.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;679,62
+24.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;367,68
+24.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;134,91
+24.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;73,82
+24.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;111,88
+24.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;479,83
+24.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;404,73
+24.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;1002,23
+24.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;179,88
+24.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;29,9
+24.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;998,33
+24.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;569,62
+24.01.2017;Puebla;Maven Toys Puebla 1;-98.20079;19.04177;145,92
+24.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;319,92
+24.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;691,53
+24.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;599,85
+24.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;595,62
+24.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;596,55
+24.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;35,96
+24.01.2017;Zacatecas;Maven Toys Zacatecas 1;-102.57982;22.76495;29,98
+24.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;359,69
+24.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;397,63
+24.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;39,92
+24.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;415,86
+24.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;41,94
+25.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;456,74
+25.01.2017;Cuernavaca;Maven Toys Cuernavaca 1;-99.22452;18.93529;98,91
+25.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;63,96
+25.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;314,79
+25.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;64,95
+25.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;329,78
+25.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;458,58
+25.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;65,94
+25.01.2017;Merida;Maven Toys Merida 1;-114.92036;32.66117;306,78
+25.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;901,47
+25.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;152,83
+25.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;301,74
+25.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;402,82
+25.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;794,37
+25.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;53,94
+25.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;234,79
+25.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;160,81
+25.01.2017;Durango;Maven Toys Durango 1;-104.65333;24.02617;299,8
+25.01.2017;Hermosillo;Maven Toys Hermosillo 3;-110.954167;29.098889;97,86
+25.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;74,95
+25.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;900,17
+25.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;753,69
+25.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;127,92
+25.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;164,89
+25.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;189,85
+25.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;803,49
+25.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;59,97
+25.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;203,8
+25.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;222,84
+25.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;389,85
+25.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;161,88
+25.01.2017;Puebla;Maven Toys Puebla 1;-98.20079;19.04177;230,79
+25.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;727,38
+25.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;1323,34
+25.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;1223,38
+25.01.2017;Zacatecas;Maven Toys Zacatecas 1;-102.57982;22.76495;87,92
+25.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;41,86
+25.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;26,97
+25.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;79,96
+25.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;440,74
+25.01.2017;Toluca;Maven Toys Toluca 2;-99.6615;19.22035;20,97
+26.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;39,96
+26.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;63,96
+26.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;211,8
+26.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;268,73
+26.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;534,67
+26.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;264,81
+26.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;21,98
+26.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;128,89
+26.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;354,8
+26.01.2017;Cuernavaca;Maven Toys Cuernavaca 1;-99.22452;18.93529;911,31
+26.01.2017;Merida;Maven Toys Merida 1;-114.92036;32.66117;74,95
+26.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;142,87
+26.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;39,96
+26.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;143,91
+26.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;251,8
+26.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;154,77
+26.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;87,92
+26.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;176,84
+26.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;348,68
+26.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;234,79
+26.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;533,64
+26.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;214,77
+26.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;257,76
+26.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;319,8
+26.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;164,85
+26.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;254,83
+26.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;504,63
+26.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;737,47
+26.01.2017;Hermosillo;Maven Toys Hermosillo 3;-110.954167;29.098889;84,93
+26.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;207,84
+26.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;338,78
+26.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;355,77
+26.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;273,8
+26.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;815,6
+26.01.2017;Toluca;Maven Toys Toluca 2;-99.6615;19.22035;239,76
+26.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;629,58
+26.01.2017;Puebla;Maven Toys Puebla 1;-98.20079;19.04177;104,93
+26.01.2017;Zacatecas;Maven Toys Zacatecas 1;-102.57982;22.76495;110,89
+26.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;89,94
+26.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;319,82
+26.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;1107,44
+27.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;173,89
+27.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;341,85
+27.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;455,64
+27.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;759,62
+27.01.2017;Cuernavaca;Maven Toys Cuernavaca 1;-99.22452;18.93529;507,68
+27.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;399,9
+27.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;437,72
+27.01.2017;Campeche;Maven Toys Campeche 2;-90.48665;19.84618;428,78
+27.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;51,96
+27.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;238,75
+27.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;239,85
+27.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;961,58
+27.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;399,69
+27.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;226,75
+27.01.2017;Merida;Maven Toys Merida 1;-114.92036;32.66117;69,93
+27.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;224,85
+27.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;876,57
+27.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;484,66
+27.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;329,78
+27.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;263,76
+27.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;887,75
+27.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;446,74
+27.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;6,99
+27.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;92,85
+27.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;166,91
+27.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;1075,42
+27.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;631,61
+27.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;903,41
+27.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;69,93
+27.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;369,79
+27.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;174,81
+27.01.2017;Hermosillo;Maven Toys Hermosillo 3;-110.954167;29.098889;735,7
+27.01.2017;Puebla;Maven Toys Puebla 1;-98.20079;19.04177;26,91
+27.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;141,9
+27.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;555,63
+27.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;839,76
+27.01.2017;Guanajuato;Maven Toys Guanajuato 3;-101.25859;21.01378;459,78
+27.01.2017;Toluca;Maven Toys Toluca 2;-99.6615;19.22035;300,81
+27.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;847,65
+27.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;469,66
+27.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;187,87
+27.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;290,84
+27.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;413,75
+27.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;372,73
+27.01.2017;Zacatecas;Maven Toys Zacatecas 1;-102.57982;22.76495;519,74
+28.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;68,92
+28.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;1994,28
+28.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;177,87
+28.01.2017;Merida;Maven Toys Merida 1;-114.92036;32.66117;436,68
+28.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;620,39
+28.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;515,42
+28.01.2017;Cuernavaca;Maven Toys Cuernavaca 1;-99.22452;18.93529;411,76
+28.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;1077,1
+28.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;663,61
+28.01.2017;Durango;Maven Toys Durango 1;-104.65333;24.02617;94,9
+28.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;512,62
+28.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;1472,78
+28.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;698,42
+28.01.2017;Campeche;Maven Toys Campeche 2;-90.48665;19.84618;519,48
+28.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;753,44
+28.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;137,88
+28.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;400,66
+28.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;1155,02
+28.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;611,48
+28.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;309,75
+28.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;333,72
+28.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;344,48
+28.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;235,76
+28.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;384,75
+28.01.2017;Hermosillo;Maven Toys Hermosillo 3;-110.954167;29.098889;673,65
+28.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;199,9
+28.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;186,89
+28.01.2017;Guanajuato;Maven Toys Guanajuato 3;-101.25859;21.01378;149,85
+28.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;798,24
+28.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;119,92
+28.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;1195,25
+28.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;1988,52
+28.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;56,93
+28.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;583,65
+28.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;344,69
+28.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;499,67
+28.01.2017;Puebla;Maven Toys Puebla 1;-98.20079;19.04177;381,75
+28.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;243,84
+28.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;769,59
+28.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;875,76
+28.01.2017;Toluca;Maven Toys Toluca 2;-99.6615;19.22035;104,93
+28.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;1404,99
+28.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;160,85
+28.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;679,81
+28.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;488,22
+28.01.2017;Tuxtla Gutierrez;Maven Toys Tuxtla Gutierrez 1;-93.11945;16.75455;132,81
+29.01.2017;Cuernavaca;Maven Toys Cuernavaca 1;-99.22452;18.93529;376,6
+29.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;979
+29.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;79,84
+29.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;479,6
+29.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;173,82
+29.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;280,69
+29.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;1187,26
+29.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;552,6
+29.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;704,57
+29.01.2017;Durango;Maven Toys Durango 1;-104.65333;24.02617;679,67
+29.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;678,38
+29.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;179,88
+29.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;389,73
+29.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;322,7
+29.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;344,67
+29.01.2017;Campeche;Maven Toys Campeche 2;-90.48665;19.84618;362,59
+29.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;109,9
+29.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;752,38
+29.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;588,18
+29.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;347,66
+29.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;682,29
+29.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;174,87
+29.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;916,49
+29.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;1053,33
+29.01.2017;Merida;Maven Toys Merida 1;-114.92036;32.66117;284,81
+29.01.2017;Guanajuato;Maven Toys Guanajuato 3;-101.25859;21.01378;535,64
+29.01.2017;Hermosillo;Maven Toys Hermosillo 3;-110.954167;29.098889;1282,95
+29.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;195,81
+29.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;1007,1
+29.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;31,98
+29.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;631,71
+29.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;252,73
+29.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;228,76
+29.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;509,85
+29.01.2017;Toluca;Maven Toys Toluca 2;-99.6615;19.22035;54,95
+29.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;293,74
+29.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;473,58
+29.01.2017;Zacatecas;Maven Toys Zacatecas 1;-102.57982;22.76495;329,77
+29.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;539,44
+29.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;119,97
+29.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;397,65
+29.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;623,54
+29.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;568,47
+29.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;406,86
+29.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;769,57
+29.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;583,54
+29.01.2017;Tuxtla Gutierrez;Maven Toys Tuxtla Gutierrez 1;-93.11945;16.75455;879,4
+30.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;309,78
+30.01.2017;Cuernavaca;Maven Toys Cuernavaca 1;-99.22452;18.93529;1083,47
+30.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;63,96
+30.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;553,54
+30.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;229,82
+30.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;252,77
+30.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;479,68
+30.01.2017;Campeche;Maven Toys Campeche 2;-90.48665;19.84618;103,92
+30.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;313,7
+30.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;1546,3
+30.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;611,69
+30.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;44,97
+30.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;640,46
+30.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;85,95
+30.01.2017;Merida;Maven Toys Merida 1;-114.92036;32.66117;161,86
+30.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;1881,4
+30.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;8,97
+30.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;271,82
+30.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;31,98
+30.01.2017;Durango;Maven Toys Durango 1;-104.65333;24.02617;20,97
+30.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;223,86
+30.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;555,54
+30.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;15,99
+30.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;369,58
+30.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;44,97
+30.01.2017;Zacatecas;Maven Toys Zacatecas 1;-102.57982;22.76495;724,62
+30.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;142,87
+30.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;538,63
+30.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;1109,22
+30.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;44,97
+30.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;885,45
+30.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;172,83
+30.01.2017;Mexicali;Maven Toys Mexicali 1;-115.44296;32.6149;44,97
+30.01.2017;Puebla;Maven Toys Puebla 1;-98.20079;19.04177;476,61
+30.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;127,92
+30.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;98,91
+30.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;1082,07
+30.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;65,94
+30.01.2017;Santiago;Maven Toys Santiago 1;-100.14342;25.41685;534,63
+30.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;19,99
+30.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;159,96
+30.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;124,77
+30.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;90,93
+30.01.2017;Toluca;Maven Toys Toluca 2;-99.6615;19.22035;551,67
+30.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;416,39
+30.01.2017;Tuxtla Gutierrez;Maven Toys Tuxtla Gutierrez 1;-93.11945;16.75455;709,4
+31.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 2;-99.13289;19.42295;139,92
+31.01.2017;Chetumal;Maven Toys Chetumal 1;-88.30071;18.52347;1019,32
+31.01.2017;Chilpancingo;Maven Toys Chilpancingo 1;-99.51871;17.57329;111,93
+31.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 1;-99.13289;19.42295;554,69
+31.01.2017;La Paz;Maven Toys La Paz 1;-110.31246;24.11284;383,74
+31.01.2017;Campeche;Maven Toys Campeche 1;-90.48665;19.84618;372,76
+31.01.2017;Aguascalientes;Maven Toys Aguascalientes 1;-102.27797;21.8845;1383,85
+31.01.2017;Campeche;Maven Toys Campeche 2;-90.48665;19.84618;445,66
+31.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 3;-99.13289;19.42295;539,73
+31.01.2017;Chihuahua;Maven Toys Chihuahua 2;-106.08538;28.66703;98,91
+31.01.2017;Guanajuato;Maven Toys Guanajuato 1;-101.25859;21.01378;139,93
+31.01.2017;Mexicali;Maven Toys Mexicali 2;-115.44296;32.6149;305,82
+31.01.2017;Monterrey;Maven Toys Monterrey 1;-100.33868;25.70575;223,77
+31.01.2017;Chihuahua;Maven Toys Chihuahua 1;-106.08538;28.66703;353,7
+31.01.2017;Cuernavaca;Maven Toys Cuernavaca 1;-99.22452;18.93529;200,82
+31.01.2017;Guadalajara;Maven Toys Guadalajara 2;-103.33243;20.67306;219,85
+31.01.2017;Culiacan;Maven Toys Culiacan 1;-107.40728;24.80802;338,75
+31.01.2017;Guadalajara;Maven Toys Guadalajara 3;-103.33243;20.67306;95,88
+31.01.2017;Hermosillo;Maven Toys Hermosillo 1;-110.954167;29.098889;177,84
+31.01.2017;Monterrey;Maven Toys Monterrey 3;-100.33868;25.70575;164,89
+31.01.2017;Monterrey;Maven Toys Monterrey 4;-100.33868;25.70575;64,95
+31.01.2017;Ciudad Victoria;Maven Toys Ciudad Victoria 1;-99.14766;23.74204;233,82
+31.01.2017;Cuidad de Mexico;Maven Toys Ciudad de Mexico 4;-99.13289;19.42295;29,98
+31.01.2017;Morelia;Maven Toys Morelia 1;-101.20019;19.70176;224,8
+31.01.2017;Durango;Maven Toys Durango 1;-104.65333;24.02617;457,74
+31.01.2017;Guadalajara;Maven Toys Guadalajara 4;-103.33243;20.67306;288,78
+31.01.2017;Hermosillo;Maven Toys Hermosillo 2;-110.954167;29.098889;259,87
+31.01.2017;Xalapa;Maven Toys Xalapa 1;-96.92905;19.55327;90,93
+31.01.2017;Pachuca;Maven Toys Pachuca 1;-98.72616;20.11397;930,19
+31.01.2017;Guanajuato;Maven Toys Guanajuato 2;-101.25859;21.01378;132,85
+31.01.2017;Puebla;Maven Toys Puebla 2;-98.20079;19.04177;639,69
+31.01.2017;Villahermosa;Maven Toys Villahermosa 1;-92.92962;17.86316;161,82
+31.01.2017;Guadalajara;Maven Toys Guadalajara 1;-103.33243;20.67306;1602,52
+31.01.2017;Monterrey;Maven Toys Monterrey 2;-100.33868;25.70575;207,87
+31.01.2017;Saltillo;Maven Toys Saltillo 2;-101.01555;25.39332;87,92
+31.01.2017;Xalapa;Maven Toys Xalapa 2;-96.92905;19.55327;411,61
+31.01.2017;Puebla;Maven Toys Puebla 3;-98.20079;19.04177;81,92
+31.01.2017;Oaxaca;Maven Toys Oaxaca 1;-96.7236;17.0654;63,96
+31.01.2017;Saltillo;Maven Toys Saltillo 1;-101.01555;25.39332;405,46
+31.01.2017;Toluca;Maven Toys Toluca 2;-99.6615;19.22035;14,99
+31.01.2017;San Luis Potosi;Maven Toys San Luis Potosi 1;-100.95714;22.16418;104,94
+31.01.2017;Toluca;Maven Toys Toluca 1;-99.6615;19.22035;175,89
