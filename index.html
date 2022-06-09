@@ -72,7 +72,7 @@
     }
 
     async function readData() {
-        const result = await fetch("./resources/sales.csv");
+        const result = await fetch("./resources/sales3m.csv");
         const arr = await result.arrayBuffer();
         const csv = XLSX.read(arr, {type: "array", raw: true});
         return csv.Sheets[csv.SheetNames[0]];
